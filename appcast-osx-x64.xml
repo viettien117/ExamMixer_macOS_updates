@@ -6,7 +6,10 @@
     <description>Auto-update feed for ExamMixer on macOS (Intel)</description>
     <language>vi</language>
 
-  <item><title>Version 1.1.3</title><pubDate>Mon, 07 Sep 2026 17:23:03 +0700</pubDate><sparkle:version>1.1.3</sparkle:version><description><![CDATA[
+  <item><title>Version 1.1.4</title><pubDate>Wed, 09 Sep 2026 10:53:36 +0700</pubDate><sparkle:version>1.1.4</sparkle:version><description><![CDATA[
+        <h3>Version 1.1.4</h3>
+        <p>Trang Giới thiệu nay có thêm ExamSheet — chương trình vẽ ra chính tờ phiếu trả lời mà ExamScan quét, khép kín cả dây chuyền: vẽ phiếu, trộn đề, chấm bài, phân tích kết quả. Gỡ một bản vá tạm trong phần xuất file đáp án: nó thêm vào để lách chỗ ExamScan chưa đọc được tiền tố không gian tên trong .xlsx, mà chỗ đó đã sửa từ bản 1.0.16 nên nay không cần nữa.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamMixer_macOS_updates/releases/download/v1.1.4/ExamMixer-1.1.4-osx-x64.zip" length="54041759" type="application/octet-stream" sparkle:version="1.1.4" sparkle:os="macos" sparkle:edSignature="I/sIByfqVt1krbc91yKtlqPvGuH9wmXLktqpXRSYr8UQ5U0IkRpO2v3gE2WRCrEvrRUB+duxg0lVYfesqMvzBw==" /></item><item><title>Version 1.1.3</title><pubDate>Mon, 07 Sep 2026 17:23:03 +0700</pubDate><sparkle:version>1.1.3</sparkle:version><description><![CDATA[
         <h3>Version 1.1.3</h3>
         <p>Sửa lỗi bảng đáp án .xlsx xuất ra bị kẹt lại ở tiếng Việt không dấu: ô góc ghi Cau \ Ma de và các nhãn hàng ghi Cau 1, Cau 2 dù đang chạy ngôn ngữ khác. Nay theo đúng ngôn ngữ đang chọn, đủ 5 thứ tiếng. Nút tải ExamInsight dẫn đúng bản dành cho máy Mac khi bạn đang dùng Mac. Thư liên hệ hỗ trợ không còn ghi nhầm nền tảng.</p>
       ]]></description><enclosure url="https://github.com/viettien117/ExamMixer_macOS_updates/releases/download/v1.1.3/ExamMixer-1.1.3-osx-x64.zip" length="54040535" type="application/octet-stream" sparkle:version="1.1.3" sparkle:os="macos" sparkle:edSignature="yd7l9sMMJjROG7vHtSbcd9PbIIeqGxDc+3CjR4c90RyiHyF92l4FrlV4i5GTOqVPS0tYDqC3vJN6M+nldsrgAQ==" /></item><item><title>Version 1.1.1</title><pubDate>Fri, 04 Sep 2026 10:36:31 +0700</pubDate><sparkle:version>1.1.1</sparkle:version><description><![CDATA[
