@@ -6,7 +6,13 @@
     <description>Auto-update feed for ExamMixer on macOS (Intel)</description>
     <language>vi</language>
 
-  <item><title>Version 1.1.6</title><pubDate>Mon, 05 Oct 2026 12:11:59 +0700</pubDate><sparkle:version>1.1.6</sparkle:version><description><![CDATA[
+  <item><title>Version 1.1.7</title><pubDate>Thu, 29 Oct 2026 12:26:13 +0700</pubDate><sparkle:version>1.1.7</sparkle:version><description><![CDATA[
+        <h3>Version 1.1.7</h3>
+        <p>Khung quảng cáo hiện nhanh hơn.
+
+• Trước đây ExamMixer tải lại toàn bộ ảnh quảng cáo mỗi lần mở; nay ảnh đã lưu trên máy được dùng lại.
+• Chỉ tải ảnh mới khi nội dung trên máy chủ thật sự thay đổi — tiết kiệm dữ liệu mạng.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamMixer_macOS_updates/releases/download/v1.1.7/ExamMixer-1.1.7-osx-x64.zip" length="54046256" type="application/octet-stream" sparkle:version="1.1.7" sparkle:os="macos" sparkle:edSignature="+177zOkke1shB73XJBXdpI8aeGRPXDab395cJd1ms/h9BM3OvDys3hxihlW4BqhG8tSi2j8yb9pe6Alx70kRCw==" /></item><item><title>Version 1.1.6</title><pubDate>Mon, 05 Oct 2026 12:11:59 +0700</pubDate><sparkle:version>1.1.6</sparkle:version><description><![CDATA[
         <h3>Version 1.1.6</h3>
         <p>• Thêm nút ‹ › ở hai mép khung quảng cáo để xem quảng cáo trước hoặc sau, không phải chờ tự chuyển.
 
